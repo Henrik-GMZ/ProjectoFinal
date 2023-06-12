@@ -1,0 +1,15 @@
+$colorlinks: white;
+$fontsize: 14px;
+$fontfamily: Arimo; 
+
+
+
+
+//mixins
+
+@mixin float-container {
+    border: 3px solid #fff;
+    padding: 20px;
+    position: static;
+    height: 600px;
+  }
